@@ -43,4 +43,4 @@
 
 流畅播放：无论网络条件如何，平台会自动调整视频质量，以保证流畅播放。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/122119 ）</span>
